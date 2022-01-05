@@ -1,0 +1,15 @@
+//
+//  Movie+CoreDataClass.swift
+//  CoreDataProject
+//
+//  Created by hunter downey on 12/11/21.
+//
+//
+
+import Foundation
+import CoreData
+
+@objc(Movie)
+public class Movie: NSManagedObject {
+
+}
